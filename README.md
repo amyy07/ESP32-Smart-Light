@@ -41,9 +41,6 @@ Please be careful when building this circuit as it interfaces with 240 V AC main
 
 ### Web Interface
 ![Web Interface](images/webpage_timer.png)
-<p align="center">
-  <img src="images/webpage_timer.png" alt="ESP32 Smart Light Webpage Timer" width="500">
-</p>
 
 ### Timer Countdown
 ![Timer Countdown](images/webpage_timer_countdown.png)
