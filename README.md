@@ -31,13 +31,13 @@ The original project demonstrated Bluetooth control using an ESP32. This impleme
 Please be careful when building this circuit as it interfaces with 240 V AC mains electricity. Make sure to disconnect power while modifying it.  
 
 ## Circuit Diagram
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram](images/circuit_diagram.jpg)
 
 ### Light OFF
-![Light OFF](images/pic1_light_off.png)
+![Light OFF](images/pic1_light_off.JPG)
 
 ### Light ON
-![Light ON](images/pic2_light_on.png)
+![Light ON](images/pic2_light_on.JPG)
 
 ### Web Interface
 ![Web Interface](images/webpage_timer.png)
