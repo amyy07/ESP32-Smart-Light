@@ -6,6 +6,7 @@ A smart home lighting system built using an ESP32 and a single-channel relay mod
 ## Acknowledgements
 The following Bluetooth-controlled light tutorial inspired this project:
 https://www.youtube.com/watch?v=ZjVWXPnAgoE&t=1214s
+
 The original project demonstrated Bluetooth control using an ESP32. This implementation extends the concept by replacing Bluetooth with Wi-Fi communication and adding a browser-based interface and timer functionality.
 
 ## Features
